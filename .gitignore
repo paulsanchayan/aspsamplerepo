@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DemoAzureApp.SIT.Tests/bin/Debug/netcoreapp2.1
+/DemoAzureApp.SIT.Tests/obj
